@@ -26,3 +26,6 @@ Model Evaluation: Evaluate the trained models using appropriate metrics, such as
 Model Deployment and Forecasting: Deploy the chosen model to predict store sales for future time periods, leveraging the provided test dataset. Generate forecasts for the target period and assess the model's ability to capture the sales patterns accurately.
 
 By following this framework, we are going to predict store sales of Corporation Favorita.
+
+###link to my article:
+https://medium.com/@deedahahmed01/time-series-forecasting-17a8d7134bbd
