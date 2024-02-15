@@ -27,5 +27,5 @@ Model Deployment and Forecasting: Deploy the chosen model to predict store sales
 
 By following this framework, we are going to predict store sales of Corporation Favorita.
 
-###link to my article:
+### link to my article:
 https://medium.com/@deedahahmed01/time-series-forecasting-17a8d7134bbd
